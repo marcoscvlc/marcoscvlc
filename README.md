@@ -2,6 +2,7 @@
 
 ### 👨‍💻 About Me:
 PT/BR: Graduando em ciencia da computação com interesse em estágio no ramo. Possuo noções de Java, Android Studio entre outros. Sou uma pessoa organizada, gosto de programar meus cronogramas semanais para conseguir realizar minhas tarefas do dia com precisão. Tenho a missão de dar uma razão aos conhecimento que venho adquirindo.
+
 EN: Graduating in computer science with interest in an internship in the field. I have knowledge of Java, Android Studio, among others. I am an organized person, I like to program my weekly schedules to be able to carry out my daily tasks with precision. My mission is to give a reason for the knowledge I have been acquiring.
 
 ### 🛠 Tech Stack:
